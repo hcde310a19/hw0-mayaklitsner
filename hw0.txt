@@ -1,3 +1,15 @@
 # Description of your program (part 7)
+Counting the number of words in a document:
+1) Locate the first word in the document.
+2) Add one to your word count for the first word.
+3) Read each character until a space is the next character.
+4) If after the space character the next character is a letter add one to your word count.
+5) Repeat steps 3 and 4 until you reach the end of the document.
 
 # Reflection on writing your program (part 8)
+The beginning of this assignment I thought it would be easy, but as I started to write instructions out and think about
+how they could be perceived incorrectly it got harder to write. I found myself analyzing each word and how it could be
+interpreted. While it seems like an easy task to give someone, it can be more complicated than I expected. Once I found
+a statement that I didn't think could be misinterpreted I felt pretty great about the assignment.
+For this course I'm excited to expand my programming abilities in a new way. I'd love to understand more about how create
+beautiful applications not just ones that do what I want with a poor user interface.
